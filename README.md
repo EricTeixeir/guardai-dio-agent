@@ -51,7 +51,7 @@ Ela fecha o ciclo da análise: a skill de vulnerabilidades mostra ao estudante o
 1. Instale o Hermes pela [documentação oficial](https://hermes-agent.nousresearch.com/docs). Qualquer harness compatível com `AGENTS.md` também funciona (Claude Code, Codex, OpenCode, Google Antigravity).
 2. Clone este repositório:
    ```
-   git clone <url-deste-repositorio>
+   git clone https://github.com/EricTeixeir/guardai-dio-agent.git
    ```
 3. Abra o terminal **dentro da pasta do projeto**, a que contém o `AGENTS.md`, e rode `hermes`. Aberto em outra pasta, o harness não encontra os arquivos do agente.
 
